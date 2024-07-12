@@ -26,9 +26,6 @@ PS C:\Users\DoubleSine\Github\MobaXterm-Keygen> .\MobaXterm-Keygen.py "DoubleSin
 
 Then copy `Custom.mxtpro` to `C:\Program Files (x86)\Mobatek\MobaXterm`.
 
-
-Voici la traduction en anglais pour les étapes de test de votre script sous Windows avec Visual Studio Code. Vous pouvez l'ajouter dans le README de votre projet GitHub.
-
 ---
 
 ### Prerequisites
@@ -104,9 +101,6 @@ python MobaXterm-Keygen.py "TestUser" 11.2
 By following these steps, you should be able to test your key generation script on Windows using VS Code. If you have any questions or encounter issues, feel free to ask for additional help.
 
 ---
-
-Feel free to adjust the instructions as needed for your specific project requirements.
-
 
 ## Screenshot
 
